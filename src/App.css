@@ -7,6 +7,8 @@
 
 * {
   font-family: 'zh-cn', sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 .container {
@@ -20,7 +22,9 @@
   grid-template-areas:
     "Name1 ElementChoise Name2"
     "Picks1 CharactersWeapons Picks2"
-    "Bans Bans Bans";
+    "Bans Bans Bans"; 
+  position: relative;
+  top: -50px;
 }
 
 body {
