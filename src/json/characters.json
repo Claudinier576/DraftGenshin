@@ -1,0 +1,372 @@
+[
+    {
+        "name": "Aether",
+        "img": "Aether.png",
+        "element": "*"
+    },
+    {
+        "name": "Albedo",
+        "img": "Albedo.png",
+        "element": "Geo"
+    },
+    {
+        "name": "Alhaitham",
+        "img": "Alhaitham.png",
+        "element": "Dendro"
+    },
+    {
+        "name": "Aloy",
+        "img": "Aloy.png",
+        "element": "Cryo"
+    },
+    {
+        "name": "Amber",
+        "img": "Amber.png",
+        "element": "Pyro"
+    },
+    {
+        "name": "Ayaka",
+        "img": "Ayaka.png",
+        "element": "Cryo"
+    },
+    {
+        "name": "Ayato",
+        "img": "Ayato.png",
+        "element": "Hydro"
+    },
+    {
+        "name": "Baizhu",
+        "img": "Baizhu.png",
+        "element": "Dendro"
+    },
+    {
+        "name": "Barbara",
+        "img": "Barbara.png",
+        "element": "Hydro"
+    },
+    {
+        "name": "Beidou",
+        "img": "Beidou.png",
+        "element": "Electro"
+    },
+    {
+        "name": "Bennett",
+        "img": "Bennett.png",
+        "element": "Pyro"
+    },
+    {
+        "name": "Candace",
+        "img": "Candace.png",
+        "element": "Hydro"
+    },
+    {
+        "name": "Chongyun",
+        "img": "Chongyun.png",
+        "element": "Cryo"
+    },
+    {
+        "name": "Collei",
+        "img": "Collei.png",
+        "element": "Dendro"
+    },
+    {
+        "name": "Cyno",
+        "img": "Cyno.png",
+        "element": "Electro"
+    },
+    {
+        "name": "Dehya",
+        "img": "Dehya.png",
+        "element": "Pyro"
+    },
+    {
+        "name": "Diluc",
+        "img": "Diluc.png",
+        "element": "Pyro"
+    },
+    {
+        "name": "Diona",
+        "img": "Diona.png",
+        "element": "Cryo"
+    },
+    {
+        "name": "Dori",
+        "img": "Dori.png",
+        "element": "Electro"
+    },
+    {
+        "name": "Eula",
+        "img": "Eula.png",
+        "element": "Cryo"
+    },
+    {
+        "name": "Faruzan",
+        "img": "Faruzan.png",
+        "element": "Anemo"
+    },
+    {
+        "name": "Fischl",
+        "img": "Fischl.png",
+        "element": "Electro"
+    },
+    {
+        "name": "Freminet",
+        "img": "Freminet.png",
+        "element": "Cryo"
+    },
+    {
+        "name": "Ganyu",
+        "img": "Ganyu.png",
+        "element": "Cryo"
+    },
+    {
+        "name": "Gorou",
+        "img": "Gorou.png",
+        "element": "Geo"
+    },
+    {
+        "name": "Heizou",
+        "img": "Heizou.png",
+        "element": "Anemo"
+    },
+    {
+        "name": "Hutao",
+        "img": "Hutao.png",
+        "element": "Pyro"
+    },
+    {
+        "name": "Itto",
+        "img": "Itto.png",
+        "element": "Geo"
+    },
+    {
+        "name": "Jean",
+        "img": "Jean.png",
+        "element": "Anemo"
+    },
+    {
+        "name": "Kaeya",
+        "img": "Kaeya.png",
+        "element": "Cryo"
+    },
+    {
+        "name": "Kaveh",
+        "img": "Kaveh.png",
+        "element": "Dendro"
+    },
+    {
+        "name": "Kazuha",
+        "img": "Kazuha.png",
+        "element": "Anemo"
+    },
+    {
+        "name": "Keqing",
+        "img": "Keqing.png",
+        "element": "Electro"
+    },
+    {
+        "name": "Kirara",
+        "img": "Kirara.png",
+        "element": "Dendro"
+    },
+    {
+        "name": "Klee",
+        "img": "Klee.png",
+        "element": "Pyro"
+    },
+    {
+        "name": "Kokomi",
+        "img": "Kokomi.png",
+        "element": "Hydro"
+    },
+    {
+        "name": "Kuki",
+        "img": "Kuki.png",
+        "element": "Electro"
+    },
+    {
+        "name": "Layla",
+        "img": "Layla.png",
+        "element": "Cryo"
+    },
+    {
+        "name": "Lisa",
+        "img": "Lisa.png",
+        "element": "Electro"
+    },
+    {
+        "name": "Lumine",
+        "img": "Lumine.png",
+        "element": "*"
+    },
+    {
+        "name": "Lynette",
+        "img": "Lynette.png",
+        "element": "Anemo"
+    },
+    {
+        "name": "Lyney",
+        "img": "Lyney.png",
+        "element": "Pyro"
+    },
+    {
+        "name": "Mika",
+        "img": "Mika.png",
+        "element": "Cryo"
+    },
+    {
+        "name": "Mona",
+        "img": "Mona.png",
+        "element": "Hydro"
+    },
+    {
+        "name": "Nahida",
+        "img": "Nahida.png",
+        "element": "Dendro"
+    },
+    {
+        "name": "Neuvillette",
+        "img": "Neuvillette.png",
+        "element": "Hydro"
+    },
+    {
+        "name": "Nilou",
+        "img": "Nilou.png",
+        "element": "Hydro"
+    },
+    {
+        "name": "Ningguang",
+        "img": "Ningguang.png",
+        "element": "Geo"
+    },
+    {
+        "name": "Noelle",
+        "img": "Noelle.png",
+        "element": "Geo"
+    },
+    {
+        "name": "Qiqi",
+        "img": "Qiqi.png",
+        "element": "Cryo"
+    },
+    {
+        "name": "Raiden",
+        "img": "Raiden.png",
+        "element": "Electro"
+    },
+    {
+        "name": "Razor",
+        "img": "Razor.png",
+        "element": "Electro"
+    },
+    {
+        "name": "Rosaria",
+        "img": "Rosaria.png",
+        "element": "Cryo"
+    },
+    {
+        "name": "Sara",
+        "img": "Sara.png",
+        "element": "Electro"
+    },
+    {
+        "name": "Sayu",
+        "img": "Sayu.png",
+        "element": "Anemo"
+    },
+    {
+        "name": "Shenhe",
+        "img": "Shenhe.png",
+        "element": "Cryo"
+    },
+    {
+        "name": "Sucrose",
+        "img": "Sucrose.png",
+        "element": "Anemo"
+    },
+    {
+        "name": "Tartaglia",
+        "img": "Tartaglia.png",
+        "element": "Hydro"
+    },
+    {
+        "name": "Thoma",
+        "img": "Thoma.png",
+        "element": "Pyro"
+    },
+    {
+        "name": "Tighnari",
+        "img": "Tighnari.png",
+        "element": "Dendro"
+    },
+    {
+        "name": "Venti",
+        "img": "Venti.png",
+        "element": "Anemo"
+    },
+    {
+        "name": "Wanderer",
+        "img": "Wanderer.png",
+        "element": "Anemo"
+    },
+    {
+        "name": "Wriothesley",
+        "img": "Wriothesley.png",
+        "element": "Cryo"
+    },
+    {
+        "name": "Xiangling",
+        "img": "Xiangling.png",
+        "element": "Pyro"
+    },
+    {
+        "name": "Xiao",
+        "img": "Xiao.png",
+        "element": "Anemo"
+    },
+    {
+        "name": "Xingqiu",
+        "img": "Xingqiu.png",
+        "element": "Hydro"
+    },
+    {
+        "name": "Xinyan",
+        "img": "Xinyan.png",
+        "element": "Pyro"
+    },
+    {
+        "name": "Yae",
+        "img": "Yae.png",
+        "element": "Electro"
+    },
+    {
+        "name": "Yanfei",
+        "img": "Yanfei.png",
+        "element": "Pyro"
+    },
+    {
+        "name": "Yaoyao",
+        "img": "Yaoyao.png",
+        "element": "Dendro"
+    },
+    {
+        "name": "Yelan",
+        "img": "Yelan.png",
+        "element": "Hydro"
+    },
+    {
+        "name": "Yoimiya",
+        "img": "Yoimiya.png",
+        "element": "Pyro"
+    },
+    {
+        "name": "Yunjin",
+        "img": "Yunjin.png",
+        "element": "Geo"
+    },
+    {
+        "name": "Zhongli",
+        "img": "Zhongli.png",
+        "element": "Geo"
+    }
+]

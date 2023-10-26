@@ -1,38 +1,198 @@
-.App {
-  text-align: center;
+@font-face {
+  font-family: 'zh-cn';
+  src: url('/public/assets/fonts/zh-cn.ttf') format('truetype');
+  /* Substitua o caminho e o formato da fonte */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+* {
+  font-family: 'zh-cn', sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 0.7fr 1.6fr 0.7fr;
+  grid-template-rows: 80px 620px 80px;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "Name1 ElementChoise Name2"
+    "Picks1 CharactersWeapons Picks2"
+    "Bans Bans Bans";
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+body {
+  background: url("../public/assets/20231004190935.png") no-repeat ;
+  background-size: 100%;
+}
+
+.Name1 {
+  grid-area: Name1;
+}
+
+.ElementChoise {
+  grid-area: ElementChoise;
+  display: flex;
+  width: 380px;
+  height: 45px;
+  background-color: rgba(250, 150, 153, 0.5);
+  gap: 5px;
+}
+
+.ElementChoise img:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+.ElementChoise img {
+  width: 45px;
+  height: 45px;
+}
+
+.Name2 {
+  grid-area: Name2;
+}
+
+.Picks1 {
+  grid-area: Picks1;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  gap: 5px;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.Picks2 {
+  grid-area: Picks2;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.CharactersWeapons {
+  grid-area: CharactersWeapons;
+  background-color: rgba(254, 203, 210, 0.3);
+  display: flex;
+  flex-wrap: wrap;
+  overflow-y: auto;
+  gap: 10px;
+  padding: 30px;
+  box-sizing: border-box;
+  justify-content: center;
+  align-content: flex-start;
+  position: relative;
+}
+
+.Bans {
+  grid-area: Bans;
+}
+
+.cardCharacter {
+  width: 78px;
+  height: 80px;
+  border: 1px solid #000;
+  border-radius: 15px;
+}
+
+.cardCharacter:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+.cardCharacter img {
+  width: 78px;
+  height: 80px;
+  border-radius: 15px;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(254, 203, 210, 0.3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgba(254, 203, 210, 0.3);
+}
+
+.inputName {
+  width: 240px;
+  height: 60px;
+  background-color: rgba(254, 203, 210, 0.3);
+  border: none;
+  border-radius: 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 24px;
+}
+
+.pickBanButtons {
+  position: relative;
+  z-index: 5;
+  top: 750px;
+  max-width: 1280px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.pickBanButtons button {
+  width: 220px;
+  height: 60px;
+  cursor: pointer;
+  border: none;
+}
+
+.pickBanButtons button:hover {
+  border: 1px solid black;
+}
+
+.Cpick {
+  background-color: rgba(217, 136, 255, 0.6);
+  border-radius: 25px 0 0 25px;
+}
+
+.Cban {
+  background-color: rgba(238, 40, 67, 0.6);
+  border-radius: 0px 25px 25px 0px;
+}
+
+.Bans {
+  margin-top: 100px;
+  width: 100%;
+  height: 80px;
+  border-radius: 15px;
+  background-color: rgba(250, 150, 153, 0.5);
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
+
+.SelectedCharacter{
+  border: 3px  #ff00dd;;
+  border-style: groove;
+  transform: scale(1.2);
+}
+.BanCardCharacter{
+  width: 78px;
+  height: 80px;
+}
+.BanCardCharacter img {
+  width: 78px;
+  height: 80px;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+.Remove{
+  position: absolute;
+  border-radius: 15px 0 15px 0;
+  background-color: #c81a0a;
+  cursor: pointer;
+}
+.Remove:hover{
+  transform: scale(1.1);
 }
