@@ -97,7 +97,7 @@ function App() {
               setFilter("Pyro");
             }
           }}>
-            <img src="/assets/elements/pyro.png" alt="" />
+            <img src="/assets/elements/Pyro.png" alt="" />
           </div>
           <div onClick={() => {
             if (Filter === "Hydro") {
@@ -106,7 +106,7 @@ function App() {
               setFilter("Hydro");
             }
           }}>
-            <img src="/assets/elements/hydro.png" alt="" />
+            <img src="/assets/elements/Hydro.png" alt="" />
           </div>
           <div onClick={() => {
             if (Filter === "Anemo") {
@@ -115,7 +115,7 @@ function App() {
               setFilter("Anemo");
             }
           }}>
-            <img src="/assets/elements/anemo.png" alt="" />
+            <img src="/assets/elements/Anemo.png" alt="" />
           </div>
           <div onClick={() => {
             if (Filter === "Electro") {
@@ -151,7 +151,7 @@ function App() {
               setFilter("Geo");
             }
           }}>
-            <img src="/assets/elements/Geo.png" alt="" />
+            <img src="/assets/elements/geo.png" alt="" />
           </div>
         </div>
         <div className="Name2"> <input type="text" className='inputName' /> </div>
