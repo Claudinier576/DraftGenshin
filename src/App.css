@@ -26,7 +26,7 @@
 }
 
 body {
-  background: url("../public/assets/20231004190935.png") no-repeat ;
+  background: url("../public/assets/BgChoco.gif") no-repeat ;
   background-size: 100%;
 }
 
@@ -38,6 +38,7 @@ body {
   grid-area: ElementChoise;
   display: flex;
   width: 380px;
+
   height: 45px;
   background-color: rgba(250, 150, 153, 0.5);
   gap: 5px;
@@ -197,4 +198,8 @@ body {
 }
 .Remove:hover{
   transform: scale(1.1);
+}
+
+.disabled{
+  display: none;
 }

@@ -2,871 +2,1045 @@
     {
         "name": "Akuoumaru",
         "icon": "/assets/weapons/akuoumaru.png",
-        "id": "akuoumaru"
+        "id": "akuoumaru",
+        "type": "claymore"
     },
     {
         "name": "Alley Hunter",
         "icon": "/assets/weapons/alley_hunter.png",
-        "id": "alley_hunter"
+        "id": "alley_hunter",
+        "type": "bow"
     },
     {
         "name": "Amenoma Kageuchi",
         "icon": "/assets/weapons/amenoma_kageuchi.png",
-        "id": "amenoma_kageuchi"
+        "id": "amenoma_kageuchi",
+        "type": "sword"
     },
     {
         "name": "Amos' Bow",
         "icon": "/assets/weapons/amos_bow.png",
-        "id": "amos_bow"
+        "id": "amos_bow",
+        "type": "bow"
     },
     {
         "name": "Apprentice's Notes",
         "icon": "/assets/weapons/apprentices_notes.png",
-        "id": "apprentices_notes"
+        "id": "apprentices_notes",
+        "type": "catalyst"
     },
     {
         "name": "Aqua Simulacra",
         "icon": "/assets/weapons/aqua_simulacra.png",
-        "id": "aqua_simulacra"
+        "id": "aqua_simulacra",
+        "type": "bow"
     },
     {
         "name": "Aquila Favonia",
         "icon": "/assets/weapons/aquila_favonia.png",
-        "id": "aquila_favonia"
+        "id": "aquila_favonia",
+        "type": "sword"
     },
     {
         "name": "A Thousand Floating Dreams",
         "icon": "/assets/weapons/a_thousand_floating_dreams.png",
-        "id": "a_thousand_floating_dreams"
+        "id": "a_thousand_floating_dreams",
+        "type": "catalyst"
     },
     {
         "name": "Ballad of the Fjords",
         "icon": "/assets/weapons/ballad_of_the_fjords.png",
-        "id": "ballad_of_the_fjords"
+        "id": "ballad_of_the_fjords",
+        "type": "polearm"
     },
     {
         "name": "Ballad of the Boundless Blue",
         "icon": "assets/weapons/ballad_of_the_boundless_blue.png",
-        "id": "ballad_of_the_boundless_blue"
+        "id": "ballad_of_the_boundless_blue",
+        "type": "catalyst"
     },
     {
         "name": "Beacon of the Reed Sea",
         "icon": "/assets/weapons/beacon_of_the_reed_sea.png",
-        "id": "beacon_of_the_reed_sea"
+        "id": "beacon_of_the_reed_sea",
+        "type" : "claymore"
     },
     {
         "name": "Beginner's Protector",
         "icon": "/assets/weapons/beginners_protector.png",
-        "id": "beginners_protector"
+        "id": "beginners_protector",
+        "type" : "claymore"
     },
     {
         "name": "Blackcliff Agate",
         "icon": "/assets/weapons/blackcliff_agate.png",
-        "id": "blackcliff_agate"
+        "id": "blackcliff_agate",
+        "type" : "catalyst"
     },
     {
         "name": "Blackcliff Longsword",
         "icon": "/assets/weapons/blackcliff_longsword.png",
-        "id": "blackcliff_longsword"
+        "id": "blackcliff_longsword",
+        "type" : "sword"
     },
     {
         "name": "Blackcliff Pole",
         "icon": "/assets/weapons/blackcliff_pole.png",
-        "id": "blackcliff_pole"
+        "id": "blackcliff_pole",
+        "type" : "polearm"
     },
     {
         "name": "Blackcliff Slasher",
         "icon": "/assets/weapons/blackcliff_slasher.png",
-        "id": "blackcliff_slasher"
+        "id": "blackcliff_slasher",
+        "type" : "claymore"
     },
     {
         "name": "Blackcliff Warbow",
         "icon": "/assets/weapons/blackcliff_warbow.png",
-        "id": "blackcliff_warbow"
+        "id": "blackcliff_warbow",
+        "type" : "bow"
     },
     {
         "name": "Black Tassel",
         "icon": "/assets/weapons/black_tassel.png",
-        "id": "black_tassel"
+        "id": "black_tassel",
+        "type" : "polearm"
     },
     {
         "name": "Bloodtainted Greatsword",
         "icon": "/assets/weapons/bloodtainted_greatsword.png",
-        "id": "bloodtainted_greatsword"
+        "id": "bloodtainted_greatsword",
+        "type" : "claymore"
     },
     {
         "name": "Calamity Queller",
         "icon": "/assets/weapons/calamity_queller.png",
-        "id": "calamity_queller"
+        "id": "calamity_queller",
+        "type" : "polearm"
     },
     {
         "name": "Cashflow Supervision",
         "icon": "/assets/weapons/cashflow_supervision.png",
-        "id": "cashflow_supervision"
+        "id": "cashflow_supervision",
+        "type" : "catalyst"
     },
     {
         "name": "Cinnabar Spindle",
         "icon": "/assets/weapons/cinnabar_spindle.png",
-        "id": "cinnabar_spindle"
+        "id": "cinnabar_spindle",
+        "type" : "sword"
     },
     {
         "name": "Compound Bow",
         "icon": "/assets/weapons/compound_bow.png",
-        "id": "compound_bow"
+        "id": "compound_bow",
+        "type" : "bow"
     },
     {
         "name": "Cool Steel",
         "icon": "/assets/weapons/cool_steel.png",
-        "id": "cool_steel"
+        "id": "cool_steel",
+        "type" : "sword"
     },
     {
         "name": "Crescent Pike",
         "icon": "/assets/weapons/crescent_pike.png",
-        "id": "crescent_pike"
+        "id": "crescent_pike",
+        "type" : "polearm"
     },
     {
         "name": "Dark Iron Sword",
         "icon": "/assets/weapons/dark_iron_sword.png",
-        "id": "dark_iron_sword"
+        "id": "dark_iron_sword",
+        "type" : "sword"
     },
     {
         "name": "Deathmatch",
         "icon": "/assets/weapons/deathmatch.png",
-        "id": "deathmatch"
+        "id": "deathmatch",
+        "type" : "polearm"
     },
     {
         "name": "Debate Club",
         "icon": "/assets/weapons/debate_club.png",
-        "id": "debate_club"
+        "id": "debate_club",
+        "type" : "claymore"
     },
     {
         "name": "Dodoco Tales",
         "icon": "/assets/weapons/dodoco_tales.png",
-        "id": "dodoco_tales"
+        "id": "dodoco_tales",
+        "type" : "catalyst"
     },
     {
         "name": "Dragon's Bane",
         "icon": "/assets/weapons/dragons_bane.png",
-        "id": "dragons_bane"
+        "id": "dragons_bane",
+        "type" : "polearm"
     },
     {
         "name": "Dragonspine Spear",
         "icon": "/assets/weapons/dragonspine_spear.png",
-        "id": "dragonspine_spear"
+        "id": "dragonspine_spear",
+        "type" : "polearm"
     },
     {
         "name": "Dull Blade",
         "icon": "/assets/weapons/dull_blade.png",
-        "id": "dull_blade"
+        "id": "dull_blade",
+        "type" : "sword"
     },
     {
         "name": "Elegy for the End",
         "icon": "/assets/weapons/elegy_for_the_end.png",
-        "id": "elegy_for_the_end"
+        "id": "elegy_for_the_end",
+        "type" : "bow"
     },
     {
         "name": "Emerald Orb",
         "icon": "/assets/weapons/emerald_orb.png",
-        "id": "emerald_orb"
+        "id": "emerald_orb",
+        "type" : "catalyst"
     },
     {
         "name": "End of the Line",
         "icon": "/assets/weapons/end_of_the_line.png",
-        "id": "end_of_the_line"
+        "id": "end_of_the_line",
+        "type" : "bow"
     },
     {
         "name": "Engulfing Lightning",
         "icon": "/assets/weapons/engulfing_lightning.png",
-        "id": "engulfing_lightning"
+        "id": "engulfing_lightning",
+        "type" : "polearm"
     },
     {
         "name": "Everlasting Moonglow",
         "icon": "/assets/weapons/everlasting_moonglow.png",
-        "id": "everlasting_moonglow"
+        "id": "everlasting_moonglow",
+        "type" : "catalyst"
     },
     {
         "name": "Eye of Perception",
         "icon": "/assets/weapons/eye_of_perception.png",
-        "id": "eye_of_perception"
+        "id": "eye_of_perception",
+        "type" : "catalyst"
     },
     {
         "name": "Fading Twilight",
         "icon": "/assets/weapons/fading_twilight.png",
-        "id": "fading_twilight"
+        "id": "fading_twilight",
+        "type" : "bow"
     },
     {
         "name": "Favonius Codex",
         "icon": "/assets/weapons/favonius_codex.png",
-        "id": "favonius_codex"
+        "id": "favonius_codex",
+        "type" : "catalyst"
     },
     {
         "name": "Favonius Greatsword",
         "icon": "/assets/weapons/favonius_greatsword.png",
-        "id": "favonius_greatsword"
+        "id": "favonius_greatsword",
+        "type" : "claymore"
     },
     {
         "name": "Favonius Lance",
         "icon": "/assets/weapons/favonius_lance.png",
-        "id": "favonius_lance"
+        "id": "favonius_lance",
+        "type" : "polearm"
     },
     {
         "name": "Favonius Sword",
         "icon": "/assets/weapons/favonius_sword.png",
-        "id": "favonius_sword"
+        "id": "favonius_sword",
+        "type" : "sword"
     },
     {
         "name": "Favonius Warbow",
         "icon": "/assets/weapons/favonius_warbow.png",
-        "id": "favonius_warbow"
+        "id": "favonius_warbow",
+        "type" : "bow"
     },
     {
         "name": "Ferrous Shadow",
         "icon": "/assets/weapons/ferrous_shadow.png",
-        "id": "ferrous_shadow"
+        "id": "ferrous_shadow",
+        "type" : "claymore"
     },
     {
         "name": "Festering Desire",
         "icon": "/assets/weapons/festering_desire.png",
-        "id": "festering_desire"
+        "id": "festering_desire",
+        "type" : "sword"
     },
     {
         "name": "Fillet Blade",
         "icon": "/assets/weapons/fillet_blade.png",
-        "id": "fillet_blade"
+        "id": "fillet_blade",
+        "type" : "sword"
     },
     {
         "name": "Finale of the Deep",
         "icon": "/assets/weapons/finale_of_the_deep.png",
-        "id": "finale_of_the_deep"
+        "id": "finale_of_the_deep",
+        "type" : "sword"
     },
     {
         "name": "Fleuve Cendre Ferryman",
         "icon": "/assets/weapons/fleuve_cendre_ferryman.png",
-        "id": "fleuve_cendre_ferryman"
+        "id": "fleuve_cendre_ferryman",
+        "type" : "sword"
     },
     {
         "name": "Flowing Purity",
         "icon": "/assets/weapons/flowing_purity.png",
-        "id": "flowing_purity"
+        "id": "flowing_purity",
+        "type" : "catalyst"
     },
     {
         "name": "Forest Regalia",
         "icon": "/assets/weapons/forest_regalia.png",
-        "id": "forest_regalia"
+        "id": "forest_regalia",
+        "type" : "claymore"
     },
     {
         "name": "Freedom-Sworn",
         "icon": "/assets/weapons/freedomsworn.png",
-        "id": "freedomsworn"
+        "id": "freedomsworn",
+        "type" : "sword"
     },
     {
         "name": "Frostbearer",
         "icon": "/assets/weapons/frostbearer.png",
-        "id": "frostbearer"
+        "id": "frostbearer",
+        "type" : "catalyst"
     },
     {
         "name": "Fruit of Fulfillment",
         "icon": "/assets/weapons/fruit_of_fulfillment.png",
-        "id": "fruit_of_fulfillment"
+        "id": "fruit_of_fulfillment",
+        "type" : "catalyst"
     },
     {
         "name": "Hakushin Ring",
         "icon": "/assets/weapons/hakushin_ring.png",
-        "id": "hakushin_ring"
+        "id": "hakushin_ring",
+        "type" : "catalyst"
     },
     {
         "name": "Halberd",
         "icon": "/assets/weapons/halberd.png",
-        "id": "halberd"
+        "id": "halberd",
+        "type" : "polearm"
     },
     {
         "name": "Hamayumi",
         "icon": "/assets/weapons/hamayumi.png",
-        "id": "hamayumi"
+        "id": "hamayumi",
+        "type" : "bow"
     },
     {
         "name": "Haran Geppaku Futsu",
         "icon": "/assets/weapons/haran_geppaku_futsu.png",
-        "id": "haran_geppaku_futsu"
+        "id": "haran_geppaku_futsu",
+        "type" : "sword"
     },
     {
         "name": "Harbinger of Dawn",
         "icon": "/assets/weapons/harbinger_of_dawn.png",
-        "id": "harbinger_of_dawn"
+        "id": "harbinger_of_dawn",
+        "type" : "sword"
     },
     {
         "name": "Hunter's Bow",
         "icon": "/assets/weapons/hunters_bow.png",
-        "id": "hunters_bow"
+        "id": "hunters_bow",
+        "type" : "bow"
     },
     {
         "name": "Hunter's Path",
         "icon": "/assets/weapons/hunters_path.png",
-        "id": "hunters_path"
+        "id": "hunters_path",
+        "type" : "bow"
     },
     {
         "name": "Ibis Piercer",
         "icon": "/assets/weapons/ibis_piercer.png",
-        "id": "ibis_piercer"
+        "id": "ibis_piercer",
+        "type" : "bow"
     },
     {
         "name": "Iron Point",
         "icon": "/assets/weapons/iron_point.png",
-        "id": "iron_point"
+        "id": "iron_point",
+        "type" : "polearm"
     },
     {
         "name": "Iron Sting",
         "icon": "/assets/weapons/iron_sting.png",
-        "id": "iron_sting"
+        "id": "iron_sting",
+        "type" : "sword"
     },
     {
         "name": "Jadefall's Splendor",
         "icon": "/assets/weapons/jadefalls_splendor.png",
-        "id": "jadefalls_splendor"
+        "id": "jadefalls_splendor",
+        "type" : "catalyst"
     },
     {
         "name": "Kagotsurube Isshin",
         "icon": "/assets/weapons/kagotsurube_isshin.png",
-        "id": "kagotsurube_isshin"
+        "id": "kagotsurube_isshin",
+        "type" : "sword"
     },
     {
         "name": "Kagura's Verity",
         "icon": "/assets/weapons/kaguras_verity.png",
-        "id": "kaguras_verity"
+        "id": "kaguras_verity",
+        "type" : "catalyst"
     },
     {
         "name": "Katsuragikiri Nagamasa",
         "icon": "/assets/weapons/katsuragikiri_nagamasa.png",
-        "id": "katsuragikiri_nagamasa"
+        "id": "katsuragikiri_nagamasa",
+        "type" : "claymore"
     },
     {
         "name": "Key of Khaj-Nisut",
         "icon": "/assets/weapons/key_of_khajnisut.png",
-        "id": "key_of_khajnisut"
+        "id": "key_of_khajnisut",
+        "type" : "sword"
     },
     {
         "name": "King's Squire",
         "icon": "/assets/weapons/kings_squire.png",
-        "id": "kings_squire"
+        "id": "kings_squire",
+        "type" : "bow"
     },
     {
         "name": "Kitain Cross Spear",
         "icon": "/assets/weapons/kitain_cross_spear.png",
-        "id": "kitain_cross_spear"
+        "id": "kitain_cross_spear",
+        "type" : "polearm"
     },
     {
         "name": "Light of Foliar Incision",
         "icon": "/assets/weapons/light_of_foliar_incision.png",
-        "id": "light_of_foliar_incision"
+        "id": "light_of_foliar_incision",
+        "type" : "sword"
     },
     {
         "name": "Lion's Roar",
         "icon": "/assets/weapons/lions_roar.png",
-        "id": "lions_roar"
+        "id": "lions_roar",
+        "type" : "sword"
     },
     {
         "name": "Lithic Blade",
         "icon": "/assets/weapons/lithic_blade.png",
-        "id": "lithic_blade"
+        "id": "lithic_blade",
+        "type" : "claymore"
     },
     {
         "name": "Lithic Spear",
         "icon": "/assets/weapons/lithic_spear.png",
-        "id": "lithic_spear"
+        "id": "lithic_spear",
+        "type" : "polearm"
     },
     {
         "name": "Lost Prayer to the Sacred Winds",
         "icon": "/assets/weapons/lost_prayer_to_the_sacred_winds.png",
-        "id": "lost_prayer_to_the_sacred_winds"
+        "id": "lost_prayer_to_the_sacred_winds",
+        "type" : "catalyst"
     },
     {
         "name": "Luxurious Sea-Lord",
         "icon": "/assets/weapons/luxurious_sealord.png",
-        "id": "luxurious_sealord"
+        "id": "luxurious_sealord",
+        "type" : "claymore"
     },
     {
         "name": "Magic Guide",
         "icon": "/assets/weapons/magic_guide.png",
-        "id": "magic_guide"
+        "id": "magic_guide",
+        "type" : "catalyst"
     },
     {
         "name": "Mailed Flower",
         "icon": "/assets/weapons/mailed_flower.png",
-        "id": "mailed_flower"
+        "id": "mailed_flower",
+        "type" : "claymore"
     },
     {
         "name": "Makhaira Aquamarine",
         "icon": "/assets/weapons/makhaira_aquamarine.png",
-        "id": "makhaira_aquamarine"
+        "id": "makhaira_aquamarine",
+        "type" : "claymore"
     },
     {
         "name": "Mappa Mare",
         "icon": "/assets/weapons/mappa_mare.png",
-        "id": "mappa_mare"
+        "id": "mappa_mare",
+        "type" : "catalyst"
     },
     {
         "name": "Memory of Dust",
         "icon": "/assets/weapons/memory_of_dust.png",
-        "id": "memory_of_dust"
+        "id": "memory_of_dust",
+        "type" : "catalyst"
     },
     {
         "name": "Messenger",
         "icon": "/assets/weapons/messenger.png",
-        "id": "messenger"
+        "id": "messenger",
+        "type" : "bow"
     },
     {
         "name": "Missive Windspear",
         "icon": "/assets/weapons/missive_windspear.png",
-        "id": "missive_windspear"
+        "id": "missive_windspear",
+        "type" : "polearm"
     },
     {
         "name": "Mistsplitter Reforged",
         "icon": "/assets/weapons/mistsplitter_reforged.png",
-        "id": "mistsplitter_reforged"
+        "id": "mistsplitter_reforged",
+        "type" : "sword"
     },
     {
         "name": "Mitternachts Waltz",
         "icon": "/assets/weapons/mitternachts_waltz.png",
-        "id": "mitternachts_waltz"
+        "id": "mitternachts_waltz",
+        "type" : "bow"
     },
     {
         "name": "Moonpiercer",
         "icon": "/assets/weapons/moonpiercer.png",
-        "id": "moonpiercer"
+        "id": "moonpiercer",
+        "type" : "polearm"
     },
     {
         "name": "Mouun's Moon",
         "icon": "/assets/weapons/mouuns_moon.png",
-        "id": "mouuns_moon"
+        "id": "mouuns_moon",
+        "type" : "bow"
     },
     {
         "name": "Oathsworn Eye",
         "icon": "/assets/weapons/oathsworn_eye.png",
-        "id": "oathsworn_eye"
+        "id": "oathsworn_eye",
+        "type" : "catalyst"
     },
     {
         "name": "Old Merc's Pal",
         "icon": "/assets/weapons/old_mercs_pal.png",
-        "id": "old_mercs_pal"
+        "id": "old_mercs_pal",
+        "type" : "claymore"
     },
     {
         "name": "Otherworldly Story",
         "icon": "/assets/weapons/otherworldly_story.png",
-        "id": "otherworldly_story"
+        "id": "otherworldly_story",
+        "type" : "catalyst"
     },
     {
         "name": "Pocket Grimoire",
         "icon": "/assets/weapons/pocket_grimoire.png",
-        "id": "pocket_grimoire"
+        "id": "pocket_grimoire",
+        "type" : "catalyst"
     },
     {
         "name": "Polar Star",
         "icon": "/assets/weapons/polar_star.png",
-        "id": "polar_star"
+        "id": "polar_star",
+        "type" : "bow"
     },
     {
         "name": "Portable Power Saw",
         "icon": "/assets/weapons/portable_power_saw.png",
-        "id": "portable_power_saw"
+        "id": "portable_power_saw",
+        "type" : "claymore"
     },
     {
         "name": "Predator",
         "icon": "/assets/weapons/predator.png",
-        "id": "predator"
+        "id": "predator",
+        "type" : "bow"
     },
     {
         "name": "Primordial Jade Cutter",
         "icon": "/assets/weapons/primordial_jade_cutter.png",
-        "id": "primordial_jade_cutter"
+        "id": "primordial_jade_cutter",
+        "type" : "sword"
     },
     {
         "name": "Primordial Jade Winged-Spear",
         "icon": "/assets/weapons/primordial_jade_wingedspear.png",
-        "id": "primordial_jade_wingedspear"
+        "id": "primordial_jade_wingedspear",
+        "type" : "polearm"
     },
     {
         "name": "Prospector's Drill",
         "icon": "/assets/weapons/prospectors_drill.png",
-        "id": "prospectors_drill"
+        "id": "prospectors_drill",
+        "type" : "polearm"
     },
     {
         "name": "Prototype Amber",
         "icon": "/assets/weapons/prototype_amber.png",
-        "id": "prototype_amber"
+        "id": "prototype_amber",
+        "type" : "catalyst"
     },
     {
         "name": "Prototype Archaic",
         "icon": "/assets/weapons/prototype_archaic.png",
-        "id": "prototype_archaic"
+        "id": "prototype_archaic",
+        "type" : "claymore"
     },
     {
         "name": "Prototype Crescent",
         "icon": "/assets/weapons/prototype_crescent.png",
-        "id": "prototype_crescent"
+        "id": "prototype_crescent",
+        "type" : "bow"
     },
     {
         "name": "Prototype Rancour",
         "icon": "/assets/weapons/prototype_rancour.png",
-        "id": "prototype_rancour"
+        "id": "prototype_rancour",
+        "type" : "sword"
     },
     {
         "name": "Prototype Starglitter",
         "icon": "/assets/weapons/prototype_starglitter.png",
-        "id": "prototype_starglitter"
+        "id": "prototype_starglitter",
+        "type" : "polearm"
     },
     {
         "name": "Rainslasher",
         "icon": "/assets/weapons/rainslasher.png",
-        "id": "rainslasher"
+        "id": "rainslasher",
+        "type" : "claymore"
     },
     {
         "name": "Range Gauge",
         "icon": "/assets/weapons/range_gauge.png",
-        "id": "range_gauge"
+        "id": "range_gauge",
+        "type" : "bow"
     },
     {
         "name": "Raven Bow",
         "icon": "/assets/weapons/raven_bow.png",
-        "id": "raven_bow"
+        "id": "raven_bow",
+        "type" : "bow"
     },
     {
         "name": "Recurve Bow",
         "icon": "/assets/weapons/recurve_bow.png",
-        "id": "recurve_bow"
+        "id": "recurve_bow",
+        "type" : "bow"
     },
     {
         "name": "Redhorn Stonethresher",
         "icon": "/assets/weapons/redhorn_stonethresher.png",
-        "id": "redhorn_stonethresher"
+        "id": "redhorn_stonethresher",
+        "type" : "claymore"
     },
     {
         "name": "Rightful Reward",
         "icon": "/assets/weapons/rightful_reward.png",
-        "id": "rightful_reward"
+        "id": "rightful_reward",
+        "type" : "polearm"
     },
     {
         "name": "Royal Bow",
         "icon": "/assets/weapons/royal_bow.png",
-        "id": "royal_bow"
+        "id": "royal_bow",
+        "type" : "bow"
     },
     {
         "name": "Royal Greatsword",
         "icon": "/assets/weapons/royal_greatsword.png",
-        "id": "royal_greatsword"
+        "id": "royal_greatsword",
+        "type" : "claymore"
     },
     {
         "name": "Royal Grimoire",
         "icon": "/assets/weapons/royal_grimoire.png",
-        "id": "royal_grimoire"
+        "id": "royal_grimoire",
+        "type" : "catalyst"
     },
     {
         "name": "Royal Longsword",
         "icon": "/assets/weapons/royal_longsword.png",
-        "id": "royal_longsword"
+        "id": "royal_longsword",
+        "type" : "sword"
     },
     {
         "name": "Royal Spear",
         "icon": "/assets/weapons/royal_spear.png",
-        "id": "royal_spear"
+        "id": "royal_spear",
+        "type" : "polearm"
     },
     {
         "name": "Rust",
         "icon": "/assets/weapons/rust.png",
-        "id": "rust"
+        "id": "rust",
+        "type" : "bow"
     },
     {
         "name": "Sacrificial Bow",
         "icon": "/assets/weapons/sacrificial_bow.png",
-        "id": "sacrificial_bow"
+        "id": "sacrificial_bow",
+        "type" : "bow"
     },
     {
         "name": "Sacrificial Fragments",
         "icon": "/assets/weapons/sacrificial_fragments.png",
-        "id": "sacrificial_fragments"
+        "id": "sacrificial_fragments",
+        "type" : "catalyst"
     },
     {
         "name": "Sacrificial Greatsword",
         "icon": "/assets/weapons/sacrificial_greatsword.png",
-        "id": "sacrificial_greatsword"
+        "id": "sacrificial_greatsword",
+        "type" : "claymore"
     },
     {
         "name": "Sacrificial Jade",
         "icon": "/assets/weapons/sacrificial_jade.png",
-        "id": "sacrificial_jade"
+        "id": "sacrificial_jade",
+        "type" : "catalyst"
     },
     {
         "name": "Sacrificial Sword",
         "icon": "/assets/weapons/sacrificial_sword.png",
-        "id": "sacrificial_sword"
+        "id": "sacrificial_sword",
+        "type" : "sword"
     },
     {
         "name": "Sapwood Blade",
         "icon": "/assets/weapons/sapwood_blade.png",
-        "id": "sapwood_blade"
+        "id": "sapwood_blade",
+        "type" : "sword"
     },
     {
         "name": "Scion of the Blazing Sun",
         "icon": "/assets/weapons/scion_of_the_blazing_sun.png",
-        "id": "scion_of_the_blazing_sun"
+        "id": "scion_of_the_blazing_sun",
+        "type" : "bow"
     },
     {
         "name": "Seasoned Hunter's Bow",
         "icon": "/assets/weapons/seasoned_hunters_bow.png",
-        "id": "seasoned_hunters_bow"
+        "id": "seasoned_hunters_bow",
+        "type" : "bow"
     },
     {
         "name": "Serpent Spine",
         "icon": "/assets/weapons/serpent_spine.png",
-        "id": "serpent_spine"
+        "id": "serpent_spine",
+        "type" : "claymore"
     },
     {
         "name": "Sharpshooter's Oath",
         "icon": "/assets/weapons/sharpshooters_oath.png",
-        "id": "sharpshooters_oath"
+        "id": "sharpshooters_oath",
+        "type" : "bow"
     },
     {
         "name": "Silver Sword",
         "icon": "/assets/weapons/silver_sword.png",
-        "id": "silver_sword"
+        "id": "silver_sword",
+        "type" : "sword"
     },
     {
         "name": "Skyrider Greatsword",
         "icon": "/assets/weapons/skyrider_greatsword.png",
-        "id": "skyrider_greatsword"
+        "id": "skyrider_greatsword",
+        "type" : "claymore"
     },
     {
         "name": "Skyrider Sword",
         "icon": "/assets/weapons/skyrider_sword.png",
-        "id": "skyrider_sword"
+        "id": "skyrider_sword",
+        "type" : "sword"
     },
     {
         "name": "Skyward Atlas",
         "icon": "/assets/weapons/skyward_atlas.png",
-        "id": "skyward_atlas"
+        "id": "skyward_atlas",
+        "type" : "catalyst"
     },
     {
         "name": "Skyward Blade",
         "icon": "/assets/weapons/skyward_blade.png",
-        "id": "skyward_blade"
+        "id": "skyward_blade",
+        "type" : "sword"
     },
     {
         "name": "Skyward Harp",
         "icon": "/assets/weapons/skyward_harp.png",
-        "id": "skyward_harp"
+        "id": "skyward_harp",
+        "type" : "bow"
     },
     {
         "name": "Skyward Pride",
         "icon": "/assets/weapons/skyward_pride.png",
-        "id": "skyward_pride"
+        "id": "skyward_pride",
+        "type" : "claymore"
     },
     {
         "name": "Skyward Spine",
         "icon": "/assets/weapons/skyward_spine.png",
-        "id": "skyward_spine"
+        "id": "skyward_spine",
+        "type" : "polearm"
     },
     {
         "name": "Slingshot",
         "icon": "/assets/weapons/slingshot.png",
-        "id": "slingshot"
+        "id": "slingshot",
+        "type" : "bow"
     },
     {
         "name": "Snow-Tombed Starsilver",
         "icon": "/assets/weapons/snowtombed_starsilver.png",
-        "id": "snowtombed_starsilver"
+        "id": "snowtombed_starsilver",
+        "type" : "claymore"
     },
     {
         "name": "Solar Pearl",
         "icon": "/assets/weapons/solar_pearl.png",
-        "id": "solar_pearl"
+        "id": "solar_pearl",
+        "type" : "claymore"
     },
     {
         "name": "Song of Broken Pines",
         "icon": "/assets/weapons/song_of_broken_pines.png",
-        "id": "song_of_broken_pines"
+        "id": "song_of_broken_pines",
+        "type" : "claymore"
     },
     {
         "name": "Song of Stillness",
         "icon": "/assets/weapons/song_of_stillness.png",
-        "id": "song_of_stillness"
+        "id": "song_of_stillness",
+        "type" : "bow"
     },
     {
         "name": "Staff of Homa",
         "icon": "/assets/weapons/staff_of_homa.png",
-        "id": "staff_of_homa"
+        "id": "staff_of_homa",
+        "type" : "polearm"
     },
     {
         "name": "Staff of the Scarlet Sands",
         "icon": "/assets/weapons/staff_of_the_scarlet_sands.png",
-        "id": "staff_of_the_scarlet_sands"
+        "id": "staff_of_the_scarlet_sands",
+        "type" : "polar_star"
     },
     {
         "name": "Summit Shaper",
         "icon": "/assets/weapons/summit_shaper.png",
-        "id": "summit_shaper"
+        "id": "summit_shaper",
+        "type" : "sword"
     },
     {
         "name": "Sword of Descension",
         "icon": "/assets/weapons/sword_of_descension.png",
-        "id": "sword_of_descension"
+        "id": "sword_of_descension",
+        "type" : "sword"
     },
     {
         "name": "Talking Stick",
         "icon": "/assets/weapons/talking_stick.png",
-        "id": "talking_stick"
+        "id": "talking_stick",
+        "type" : "claymore"
     },
     {
         "name": "The Alley Flash",
         "icon": "/assets/weapons/the_alley_flash.png",
-        "id": "the_alley_flash"
+        "id": "the_alley_flash",
+        "type" : "sword"
     },
     {
         "name": "The Bell",
         "icon": "/assets/weapons/the_bell.png",
-        "id": "the_bell"
+        "id": "the_bell",
+        "type" : "claymore"
     },
     {
         "name": "The Black Sword",
         "icon": "/assets/weapons/the_black_sword.png",
-        "id": "the_black_sword"
+        "id": "the_black_sword",
+        "type" : "sword"
     },
     {
         "name": "\"The Catch\"",
         "icon": "/assets/weapons/the_catch.png",
-        "id": "the_catch"
+        "id": "the_catch",
+        "type" : "polearm"
     },
     {
         "name": "The Dockhand's Assistant",
         "icon": "/assets/weapons/the_dockhands_assistant.png",
-        "id": "the_dockhands_assistant"
+        "id": "the_dockhands_assistant",
+        "type" : "sword"
     },
     {
         "name": "The First Great Magic",
         "icon": "/assets/weapons/the_first_great_magic.png",
-        "id": "the_first_great_magic"
+        "id": "the_first_great_magic",
+        "type" : "bow"
     },
     {
         "name": "The Flute",
         "icon": "/assets/weapons/the_flute.png",
-        "id": "the_flute"
+        "id": "the_flute",
+        "type" : "sword"
     },
     {
         "name": "The Stringless",
         "icon": "/assets/weapons/the_stringless.png",
-        "id": "the_stringless"
+        "id": "the_stringless",
+        "type" : "bow"
     },
     {
         "name": "The Unforged",
         "icon": "/assets/weapons/the_unforged.png",
-        "id": "the_unforged"
+        "id": "the_unforged",
+        "type" : "claymore"
     },
     {
         "name": "The Viridescent Hunt",
         "icon": "/assets/weapons/the_viridescent_hunt.png",
-        "id": "the_viridescent_hunt"
+        "id": "the_viridescent_hunt",
+        "type" : "bow"
     },
     {
         "name": "The Widsith",
         "icon": "/assets/weapons/the_widsith.png",
-        "id": "the_widsith"
+        "id": "the_widsith",
+        "type" : "catalyst"
     },
     {
         "name": "Thrilling Tales of Dragon Slayers",
         "icon": "/assets/weapons/thrilling_tales_of_dragon_slayers.png",
-        "id": "thrilling_tales_of_dragon_slayers"
+        "id": "thrilling_tales_of_dragon_slayers",
+        "type" : "catalyst"
     },
     {
         "name": "Thundering Pulse",
         "icon": "/assets/weapons/thundering_pulse.png",
-        "id": "thundering_pulse"
+        "id": "thundering_pulse",
+        "type" : "bow"
     },
     {
         "name": "Tidal Shadow",
         "icon": "/assets/weapons/tidal_shadow.png",
-        "id": "tidal_shadow"
+        "id": "tidal_shadow",
+        "type" : "claymore"
     },
     {
         "name": "Tome of the Eternal Flow",
         "icon": "/assets/weapons/tome_of_the_eternal_flow.png",
-        "id": "tome_of_the_eternal_flow"
+        "id": "tome_of_the_eternal_flow",
+        "type" : "catalyst"
     },
     {
         "name": "Toukabou Shigure",
         "icon": "/assets/weapons/toukabou_shigure.png",
-        "id": "toukabou_shigure"
+        "id": "toukabou_shigure",
+        "type" : "sword"
     },
     {
         "name": "Traveler's Handy Sword",
         "icon": "/assets/weapons/travelers_handy_sword.png",
-        "id": "travelers_handy_sword"
+        "id": "travelers_handy_sword",
+        "type" : "sword"
     },
     {
         "name": "Tulaytullah's Remembrance",
         "icon": "/assets/weapons/tulaytullahs_remembrance.png",
-        "id": "tulaytullahs_remembrance"
+        "id": "tulaytullahs_remembrance",
+        "type" : "catalyst"
     },
     {
         "name": "Twin Nephrite",
         "icon": "/assets/weapons/twin_nephrite.png",
-        "id": "twin_nephrite"
+        "id": "twin_nephrite",
+        "type" : "catalyst"
     },
     {
         "name": "Vortex Vanquisher",
         "icon": "/assets/weapons/vortex_vanquisher.png",
-        "id": "vortex_vanquisher"
+        "id": "vortex_vanquisher",
+        "type" : "polearm"
     },
     {
         "name": "Wandering Evenstar",
         "icon": "/assets/weapons/wandering_evenstar.png",
-        "id": "wandering_evenstar"
+        "id": "wandering_evenstar",
+        "type" : "catalyst"
     },
     {
         "name": "Waster Greatsword",
         "icon": "/assets/weapons/waster_greatsword.png",
-        "id": "waster_greatsword"
+        "id": "waster_greatsword",
+        "type" : "claymore"
     },
     {
         "name": "Wavebreaker's Fin",
         "icon": "/assets/weapons/wavebreakers_fin.png",
-        "id": "wavebreakers_fin"
+        "id": "wavebreakers_fin",
+        "type" : "polearm"
     },
     {
         "name": "Whiteblind",
         "icon": "/assets/weapons/whiteblind.png",
-        "id": "whiteblind"
+        "id": "whiteblind",
+        "type" : "claymore"
     },
     {
         "name": "White Iron Greatsword",
         "icon": "/assets/weapons/white_iron_greatsword.png",
-        "id": "white_iron_greatsword"
+        "id": "white_iron_greatsword",
+        "type" : "claymore"
     },
     {
         "name": "White Tassel",
         "icon": "/assets/weapons/white_tassel.png",
-        "id": "white_tassel"
+        "id": "white_tassel",
+        "type" : ""
     },
     {
         "name": "Windblume Ode",
         "icon": "/assets/weapons/windblume_ode.png",
-        "id": "windblume_ode"
+        "id": "windblume_ode",
+        "type" : "polearm"
     },
     {
         "name": "Wine and Song",
         "icon": "/assets/weapons/wine_and_song.png",
-        "id": "wine_and_song"
+        "id": "wine_and_song",
+        "type" : "catalyst"
     },
     {
         "name": "Wolf-Fang",
         "icon": "/assets/weapons/wolffang.png",
-        "id": "wolffang"
+        "id": "wolffang",
+        "type" : "sword"
     },
     {
         "name": "Wolf's Gravestone",
         "icon": "/assets/weapons/wolfs_gravestone.png",
-        "id": "wolfs_gravestone"
+        "id": "wolfs_gravestone",
+        "type" : "claymore"
     },
     {
         "name": "Xiphos' Moonlight",
         "icon": "/assets/weapons/xiphos_moonlight.png",
-        "id": "xiphos_moonlight"
+        "id": "xiphos_moonlight",
+        "type": "sword"
     }
 ]

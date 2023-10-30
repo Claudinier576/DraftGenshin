@@ -1,372 +1,372 @@
 [
     {
         "name": "Aether",
-        "img": "Aether.png",
+        "img": "/assets/characters/Aether.png",
         "element": "*"
     },
     {
         "name": "Albedo",
-        "img": "Albedo.png",
+        "img": "/assets/characters/Albedo.png",
         "element": "Geo"
     },
     {
         "name": "Alhaitham",
-        "img": "Alhaitham.png",
+        "img": "/assets/characters/Alhaitham.png",
         "element": "Dendro"
     },
     {
         "name": "Aloy",
-        "img": "Aloy.png",
+        "img": "/assets/characters/Aloy.png",
         "element": "Cryo"
     },
     {
         "name": "Amber",
-        "img": "Amber.png",
+        "img": "/assets/characters/Amber.png",
         "element": "Pyro"
     },
     {
         "name": "Ayaka",
-        "img": "Ayaka.png",
+        "img": "/assets/characters/Ayaka.png",
         "element": "Cryo"
     },
     {
         "name": "Ayato",
-        "img": "Ayato.png",
+        "img": "/assets/characters/Ayato.png",
         "element": "Hydro"
     },
     {
         "name": "Baizhu",
-        "img": "Baizhu.png",
+        "img": "/assets/characters/Baizhu.png",
         "element": "Dendro"
     },
     {
         "name": "Barbara",
-        "img": "Barbara.png",
+        "img": "/assets/characters/Barbara.png",
         "element": "Hydro"
     },
     {
         "name": "Beidou",
-        "img": "Beidou.png",
+        "img": "/assets/characters/Beidou.png",
         "element": "Electro"
     },
     {
         "name": "Bennett",
-        "img": "Bennett.png",
+        "img": "/assets/characters/Bennett.png",
         "element": "Pyro"
     },
     {
         "name": "Candace",
-        "img": "Candace.png",
+        "img": "/assets/characters/Candace.png",
         "element": "Hydro"
     },
     {
         "name": "Chongyun",
-        "img": "Chongyun.png",
+        "img": "/assets/characters/Chongyun.png",
         "element": "Cryo"
     },
     {
         "name": "Collei",
-        "img": "Collei.png",
+        "img": "/assets/characters/Collei.png",
         "element": "Dendro"
     },
     {
         "name": "Cyno",
-        "img": "Cyno.png",
+        "img": "/assets/characters/Cyno.png",
         "element": "Electro"
     },
     {
         "name": "Dehya",
-        "img": "Dehya.png",
+        "img": "/assets/characters/Dehya.png",
         "element": "Pyro"
     },
     {
         "name": "Diluc",
-        "img": "Diluc.png",
+        "img": "/assets/characters/Diluc.png",
         "element": "Pyro"
     },
     {
         "name": "Diona",
-        "img": "Diona.png",
+        "img": "/assets/characters/Diona.png",
         "element": "Cryo"
     },
     {
         "name": "Dori",
-        "img": "Dori.png",
+        "img": "/assets/characters/Dori.png",
         "element": "Electro"
     },
     {
         "name": "Eula",
-        "img": "Eula.png",
+        "img": "/assets/characters/Eula.png",
         "element": "Cryo"
     },
     {
         "name": "Faruzan",
-        "img": "Faruzan.png",
+        "img": "/assets/characters/Faruzan.png",
         "element": "Anemo"
     },
     {
         "name": "Fischl",
-        "img": "Fischl.png",
+        "img": "/assets/characters/Fischl.png",
         "element": "Electro"
     },
     {
         "name": "Freminet",
-        "img": "Freminet.png",
+        "img": "/assets/characters/Freminet.png",
         "element": "Cryo"
     },
     {
         "name": "Ganyu",
-        "img": "Ganyu.png",
+        "img": "/assets/characters/Ganyu.png",
         "element": "Cryo"
     },
     {
         "name": "Gorou",
-        "img": "Gorou.png",
+        "img": "/assets/characters/Gorou.png",
         "element": "Geo"
     },
     {
         "name": "Heizou",
-        "img": "Heizou.png",
+        "img": "/assets/characters/Heizou.png",
         "element": "Anemo"
     },
     {
         "name": "Hutao",
-        "img": "Hutao.png",
+        "img": "/assets/characters/Hutao.png",
         "element": "Pyro"
     },
     {
         "name": "Itto",
-        "img": "Itto.png",
+        "img": "/assets/characters/Itto.png",
         "element": "Geo"
     },
     {
         "name": "Jean",
-        "img": "Jean.png",
+        "img": "/assets/characters/Jean.png",
         "element": "Anemo"
     },
     {
         "name": "Kaeya",
-        "img": "Kaeya.png",
+        "img": "/assets/characters/Kaeya.png",
         "element": "Cryo"
     },
     {
         "name": "Kaveh",
-        "img": "Kaveh.png",
+        "img": "/assets/characters/Kaveh.png",
         "element": "Dendro"
     },
     {
         "name": "Kazuha",
-        "img": "Kazuha.png",
+        "img": "/assets/characters/Kazuha.png",
         "element": "Anemo"
     },
     {
         "name": "Keqing",
-        "img": "Keqing.png",
+        "img": "/assets/characters/Keqing.png",
         "element": "Electro"
     },
     {
         "name": "Kirara",
-        "img": "Kirara.png",
+        "img": "/assets/characters/Kirara.png",
         "element": "Dendro"
     },
     {
         "name": "Klee",
-        "img": "Klee.png",
+        "img": "/assets/characters/Klee.png",
         "element": "Pyro"
     },
     {
         "name": "Kokomi",
-        "img": "Kokomi.png",
+        "img": "/assets/characters/Kokomi.png",
         "element": "Hydro"
     },
     {
         "name": "Kuki",
-        "img": "Kuki.png",
+        "img": "/assets/characters/Kuki.png",
         "element": "Electro"
     },
     {
         "name": "Layla",
-        "img": "Layla.png",
+        "img": "/assets/characters/Layla.png",
         "element": "Cryo"
     },
     {
         "name": "Lisa",
-        "img": "Lisa.png",
+        "img": "/assets/characters/Lisa.png",
         "element": "Electro"
     },
     {
         "name": "Lumine",
-        "img": "Lumine.png",
+        "img": "/assets/characters/Lumine.png",
         "element": "*"
     },
     {
         "name": "Lynette",
-        "img": "Lynette.png",
+        "img": "/assets/characters/Lynette.png",
         "element": "Anemo"
     },
     {
         "name": "Lyney",
-        "img": "Lyney.png",
+        "img": "/assets/characters/Lyney.png",
         "element": "Pyro"
     },
     {
         "name": "Mika",
-        "img": "Mika.png",
+        "img": "/assets/characters/Mika.png",
         "element": "Cryo"
     },
     {
         "name": "Mona",
-        "img": "Mona.png",
+        "img": "/assets/characters/Mona.png",
         "element": "Hydro"
     },
     {
         "name": "Nahida",
-        "img": "Nahida.png",
+        "img": "/assets/characters/Nahida.png",
         "element": "Dendro"
     },
     {
         "name": "Neuvillette",
-        "img": "Neuvillette.png",
+        "img": "/assets/characters/Neuvillette.png",
         "element": "Hydro"
     },
     {
         "name": "Nilou",
-        "img": "Nilou.png",
+        "img": "/assets/characters/Nilou.png",
         "element": "Hydro"
     },
     {
         "name": "Ningguang",
-        "img": "Ningguang.png",
+        "img": "/assets/characters/Ningguang.png",
         "element": "Geo"
     },
     {
         "name": "Noelle",
-        "img": "Noelle.png",
+        "img": "/assets/characters/Noelle.png",
         "element": "Geo"
     },
     {
         "name": "Qiqi",
-        "img": "Qiqi.png",
+        "img": "/assets/characters/Qiqi.png",
         "element": "Cryo"
     },
     {
         "name": "Raiden",
-        "img": "Raiden.png",
+        "img": "/assets/characters/Raiden.png",
         "element": "Electro"
     },
     {
         "name": "Razor",
-        "img": "Razor.png",
+        "img": "/assets/characters/Razor.png",
         "element": "Electro"
     },
     {
         "name": "Rosaria",
-        "img": "Rosaria.png",
+        "img": "/assets/characters/Rosaria.png",
         "element": "Cryo"
     },
     {
         "name": "Sara",
-        "img": "Sara.png",
+        "img": "/assets/characters/Sara.png",
         "element": "Electro"
     },
     {
         "name": "Sayu",
-        "img": "Sayu.png",
+        "img": "/assets/characters/Sayu.png",
         "element": "Anemo"
     },
     {
         "name": "Shenhe",
-        "img": "Shenhe.png",
+        "img": "/assets/characters/Shenhe.png",
         "element": "Cryo"
     },
     {
         "name": "Sucrose",
-        "img": "Sucrose.png",
+        "img": "/assets/characters/Sucrose.png",
         "element": "Anemo"
     },
     {
         "name": "Tartaglia",
-        "img": "Tartaglia.png",
+        "img": "/assets/characters/Tartaglia.png",
         "element": "Hydro"
     },
     {
         "name": "Thoma",
-        "img": "Thoma.png",
+        "img": "/assets/characters/Thoma.png",
         "element": "Pyro"
     },
     {
         "name": "Tighnari",
-        "img": "Tighnari.png",
+        "img": "/assets/characters/Tighnari.png",
         "element": "Dendro"
     },
     {
         "name": "Venti",
-        "img": "Venti.png",
+        "img": "/assets/characters/Venti.png",
         "element": "Anemo"
     },
     {
         "name": "Wanderer",
-        "img": "Wanderer.png",
+        "img": "/assets/characters/Wanderer.png",
         "element": "Anemo"
     },
     {
         "name": "Wriothesley",
-        "img": "Wriothesley.png",
+        "img": "/assets/characters/Wriothesley.png",
         "element": "Cryo"
     },
     {
         "name": "Xiangling",
-        "img": "Xiangling.png",
+        "img": "/assets/characters/Xiangling.png",
         "element": "Pyro"
     },
     {
         "name": "Xiao",
-        "img": "Xiao.png",
+        "img": "/assets/characters/Xiao.png",
         "element": "Anemo"
     },
     {
         "name": "Xingqiu",
-        "img": "Xingqiu.png",
+        "img": "/assets/characters/Xingqiu.png",
         "element": "Hydro"
     },
     {
         "name": "Xinyan",
-        "img": "Xinyan.png",
+        "img": "/assets/characters/Xinyan.png",
         "element": "Pyro"
     },
     {
         "name": "Yae",
-        "img": "Yae.png",
+        "img": "/assets/characters/Yae.png",
         "element": "Electro"
     },
     {
         "name": "Yanfei",
-        "img": "Yanfei.png",
+        "img": "/assets/characters/Yanfei.png",
         "element": "Pyro"
     },
     {
         "name": "Yaoyao",
-        "img": "Yaoyao.png",
+        "img": "/assets/characters/Yaoyao.png",
         "element": "Dendro"
     },
     {
         "name": "Yelan",
-        "img": "Yelan.png",
+        "img": "/assets/characters/Yelan.png",
         "element": "Hydro"
     },
     {
         "name": "Yoimiya",
-        "img": "Yoimiya.png",
+        "img": "/assets/characters/Yoimiya.png",
         "element": "Pyro"
     },
     {
         "name": "Yunjin",
-        "img": "Yunjin.png",
+        "img": "/assets/characters/Yunjin.png",
         "element": "Geo"
     },
     {
         "name": "Zhongli",
-        "img": "Zhongli.png",
+        "img": "/assets/characters/Zhongli.png",
         "element": "Geo"
     }
 ]

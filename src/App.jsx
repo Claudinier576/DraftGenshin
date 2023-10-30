@@ -2,12 +2,16 @@ import { useEffect, useRef, useState } from 'react';
 import './App.css';
 import CardSelectCharacter from './components/CardSelectCharacter/CardSelectCharacter';
 import CharacterListJSON from './json/characters.json';
+import WeaponsListJson from './json/weapons.json';
 function App() {
   //states
+  const [choise, setChoise] = useState("characters");
   const [dataCharacter, setData] = useState({});
   const [lastIdSelected, setLastIdSelected] = useState();
   const [idSelected, setIdSelected] = useState();
   const [CharacterList, setCharacterList] = useState([...CharacterListJSON]);
+  const [Weapons, setWeapons] = useState([...WeaponsListJson]);
+  const [FilterWeapons, setFilterWeapons] = useState("*");
   const [Filter, setFilter] = useState("*");
   //refs
   const picks = useRef([]);
@@ -20,6 +24,15 @@ function App() {
   ]
 
   useEffect(() => {
+    if (FilterWeapons !== "*") {
+      const newList = Weapons.filter((weapon) => weapon.type === FilterWeapons);
+      setWeapons([...newList]);
+    } else {
+      setWeapons([...WeaponsListJson]);
+    }
+  }, [FilterWeapons]);
+
+  useEffect(() => {
     if (Filter !== "*") {
       const newList = CharacterListJSON.filter((character) => character.element === Filter || character.element === "*");
       setCharacterList([...newList]);
@@ -27,6 +40,8 @@ function App() {
       setCharacterList([...CharacterListJSON]);
     }
   }, [Filter]);
+
+
 
 
   useEffect(() => {
@@ -40,7 +55,7 @@ function App() {
 
   const pickCharacter = () => {
     if (picks.current[idSelected]) {
-      picks.current[idSelected].current.firstChild.src = "/assets/characters/" + dataCharacter.img;
+      picks.current[idSelected].current.firstChild.src = dataCharacter.img;
       picks.current[idSelected].current.childNodes[1].innerText = dataCharacter.name;
     }
   }
@@ -48,7 +63,6 @@ function App() {
   const removePickBan = (e) => {
     e.currentTarget.parentNode.remove();
   }
-  
   const banCharacter = () => {
     const banCard = document.createElement('div');
     banCard.className = 'BanCardCharacter';
@@ -60,7 +74,7 @@ function App() {
     removeButton.addEventListener('click', removePickBan);
 
     const img = document.createElement('img');
-    img.src = "/assets/characters/" + dataCharacter.img;
+    img.src = dataCharacter.img || dataCharacter.icon;
     img.alt = '';
     img.draggable = false;
 
@@ -73,6 +87,7 @@ function App() {
     var oldSelected = document.querySelector(".SelectedCharacter");
     oldSelected?.classList.remove("SelectedCharacter");
   }
+
   return (
 
     <div className="App">
@@ -89,7 +104,7 @@ function App() {
         <div className="Name1">
           <input type="text" className='inputName' />
         </div>
-        <div className="ElementChoise">
+        {choise == "characters" ? <div className="ElementChoise">
           <div onClick={() => {
             if (Filter === "Pyro") {
               setFilter("*");
@@ -153,7 +168,66 @@ function App() {
           }}>
             <img src="/assets/elements/geo.png" alt="" />
           </div>
+          <div onClick={() => {
+            setChoise("weapons");
+          }}>
+            <img src="/assets/elements/Weapons.webp" alt="" />
+          </div>
+        </div> : <div className="ElementChoise">
+          <div onClick={() => {
+            if (FilterWeapons === "sword") {
+              setFilterWeapons("*");
+            } else {
+              setFilterWeapons("sword");
+            }
+          }}>
+            <img src="/assets/sword.png" alt="" />
+          </div>
+          <div onClick={() => {
+            if (FilterWeapons === "bow") {
+              setFilterWeapons("*");
+            } else {
+              setFilterWeapons("bow");
+            }
+          }}>
+            <img src="/assets/bow.png" alt="" />
+          </div>
+          <div onClick={() => {
+            if (FilterWeapons === "polearm") {
+              setFilterWeapons("*");
+            } else {
+              setFilterWeapons("polearm");
+            }
+          }}>
+            <img src="/assets/polearm.png" alt="" />
+          </div>
+          <div onClick={() => {
+            if (FilterWeapons === "claymore") {
+              setFilterWeapons("*");
+            } else {
+              setFilterWeapons("claymore");
+            }
+          }}>
+            <img src="/assets/claymore.png" alt="" />
+          </div>
+          <div onClick={() => {
+            if (FilterWeapons === "catalyst") {
+              setFilterWeapons("*");
+            } else {
+              setFilterWeapons("catalyst");
+            }
+          }}>
+            <img src="/assets/catalyst.png" alt="" />
+          </div>
+          <div onClick={() => {
+            setChoise("characters");
+          }}>
+            <img src="/assets/characters.png" alt="" />
+          </div>
         </div>
+        }
+
+
         <div className="Name2"> <input type="text" className='inputName' /> </div>
         <div className="Picks1">
           <CardSelectCharacter classname={'CardSelectCharacter'} setId={setIdSelected} id={0} img={""} name={""} refPick={picks.current[0]} />
@@ -176,16 +250,28 @@ function App() {
           <CardSelectCharacter classname={'CardSelectCharacter2'} setId={setIdSelected} id={14} img={""} name={""} refPick={picks.current[14]} />
           <CardSelectCharacter classname={'CardSelectCharacter2'} setId={setIdSelected} id={15} img={""} name={""} refPick={picks.current[15]} />
         </div>
-        <div class="CharactersWeapons">
-          {CharacterList.map((character) => {
-            return (<div className='cardCharacter' onClick={(e) => {
-              setData(character);
-              alterCharacterSelected();
-              e.currentTarget.classList.add("SelectedCharacter");
-            }}>
-              <img src={"/assets/characters/" + character.img} alt='' draggable="false" />
-            </div>)
-          })}
+        <div class="CharactersWeapons ">
+
+          {choise == "characters" ?
+            CharacterList.map((character) => {
+              return (<div className='cardCharacter' onClick={(e) => {
+                setData(character);
+                alterCharacterSelected();
+                e.currentTarget.classList.add("SelectedCharacter");
+              }}>
+                <img src={character.img} alt='' draggable="false" />
+              </div>)
+            })
+            :
+            Weapons.map((weapon) => {
+              return (<div className='cardCharacter' onClick={(e) => {
+                setData(weapon);
+                alterCharacterSelected();
+                e.currentTarget.classList.add("SelectedCharacter");
+              }}>
+                <img src={weapon.icon} alt='' draggable="false" />
+              </div>)
+            })}
         </div>
         <div class="Bans" ref={bans}>
 

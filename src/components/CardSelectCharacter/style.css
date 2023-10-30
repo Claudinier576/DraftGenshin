@@ -1,44 +1,51 @@
-.CardSelectCharacter{
+.CardSelectCharacter {
     margin-top: 4px;
     display: flex;
 }
-.CardSelectCharacter:hover{
+
+.CardSelectCharacter:hover {
     cursor: pointer;
 }
-.CardSelectCharacter img{
+
+.CardSelectCharacter img {
     max-width: 65px;
     height: 65px;
 }
-.CardSelectCharacter p{
+
+.CardSelectCharacter p {
     width: 180px;
     height: 37px;
-    background-color: rgba(250, 150, 153,0.5);
-    align-self: start;
-    text-align: center;
-    line-height: 37px;
-}
-.Selected{
-    border: 2px solid #000;
-}
-.CardSelectCharacter2{
-    margin-top: 4px;
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: flex-start;
-}
-.CardSelectCharacter2:hover{
-    cursor: pointer;
-}
-.CardSelectCharacter2 img{
-    max-width: 65px;
-    height: 65px;
-}
-.CardSelectCharacter2 p{
-    width: 180px;
-    height: 37px;
-    background-color: rgba(250, 150, 153,0.5);
+    background-color: rgba(185, 223, 240, 0.5);
     align-self: start;
     text-align: center;
     line-height: 37px;
 }
 
+.Selected {
+    border: 2px solid #000;
+}
+
+.CardSelectCharacter2 {
+    margin-top: 4px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+}
+
+.CardSelectCharacter2:hover {
+    cursor: pointer;
+}
+
+.CardSelectCharacter2 img {
+    max-width: 65px;
+    height: 65px;
+}
+
+.CardSelectCharacter2 p {
+    width: 180px;
+    height: 37px;
+    background-color: rgba(185, 223, 240, 0.5);
+    align-self: start;
+    text-align: center;
+    line-height: 37px;
+}
