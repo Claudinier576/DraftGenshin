@@ -56,8 +56,13 @@
     },
     {
         "name": "Candace",
-        "img": "/assets/characters/Candace.png",
+        "img": "/assets/characters/Charlotte.webp",
         "element": "Hydro"
+    },
+    {
+        "name": "Charlotte",
+        "img": "/assets/characters/Candace.png",
+        "element": "Cryo"
     },
     {
         "name": "Chongyun",
@@ -112,6 +117,11 @@
     {
         "name": "Freminet",
         "img": "/assets/characters/Freminet.png",
+        "element": "Cryo"
+    },
+    {
+        "name": "Furina",
+        "img": "/assets/characters/furina.webp",
         "element": "Cryo"
     },
     {
