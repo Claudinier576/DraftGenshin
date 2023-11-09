@@ -56,12 +56,12 @@
     },
     {
         "name": "Candace",
-        "img": "/assets/characters/Charlotte.webp",
+        "img": "/assets/characters/Candace.webp",
         "element": "Hydro"
     },
     {
         "name": "Charlotte",
-        "img": "/assets/characters/Candace.png",
+        "img": "/assets/characters/Charlotte.png",
         "element": "Cryo"
     },
     {
